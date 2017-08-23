@@ -1,0 +1,16 @@
+body {
+	background-color: #F3F3F3;
+}
+
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	color: #1D9B72;
+}
+
+#chain, #battery, #hourglass {
+	font-size: 50px;
+	width: 100%;
+	text-align: center;
+	padding-top: 2%;
+}
